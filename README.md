@@ -1,2 +1,2 @@
 # DevOps-Project-Multi-Tier-Bank-Application-Pod-based-Aws
-![image](https://github.com/user-attachments/assets/c1506ae1-49ea-4653-a1e0-a239f7ef6855)
+![image](https://github.com/user-attachments/assets/73e754ce-ea17-4fa4-8e6c-27022a243f6f)
