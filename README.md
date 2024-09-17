@@ -26,6 +26,10 @@ Screenshot for accessing the Bank Application is attached below.
 Entry for Route53 is as shown in the screenshot attached below.
 ![image](https://github.com/user-attachments/assets/0fc6fff4-5229-48e4-a09e-c7aa07f3ffb6)
 
+```
+OpenJDK Docker Image is depricated so in this project eclipse-temurin docker image has been used as a base image in the Dockerfile. 
+```
+
 <br><br/>
 <br><br/>
 <br><br/>
